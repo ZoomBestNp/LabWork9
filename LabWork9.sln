@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabWork9", "LabWork9\LabWork9.csproj", "{C6EB3B5D-3715-4465-9A1B-17F153BE6BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserOptimizationExample", "UserOptimizationExample\UserOptimizationExample.csproj", "{158C2720-3021-4410-9B9E-0E328E7B4A25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6EB3B5D-3715-4465-9A1B-17F153BE6BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6EB3B5D-3715-4465-9A1B-17F153BE6BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6EB3B5D-3715-4465-9A1B-17F153BE6BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6EB3B5D-3715-4465-9A1B-17F153BE6BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158C2720-3021-4410-9B9E-0E328E7B4A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158C2720-3021-4410-9B9E-0E328E7B4A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158C2720-3021-4410-9B9E-0E328E7B4A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158C2720-3021-4410-9B9E-0E328E7B4A25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17E56DE0-732C-4865-AAB7-A066A39675BE}
+	EndGlobalSection
+EndGlobal

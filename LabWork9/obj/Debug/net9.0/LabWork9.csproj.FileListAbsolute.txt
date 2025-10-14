@@ -1,0 +1,14 @@
+C:\Temp\ispp-21\MDK0202\LabWork9\LabWork9\LabWork9\bin\Debug\net9.0\LabWork9.exe
+C:\Temp\ispp-21\MDK0202\LabWork9\LabWork9\LabWork9\bin\Debug\net9.0\LabWork9.deps.json
+C:\Temp\ispp-21\MDK0202\LabWork9\LabWork9\LabWork9\bin\Debug\net9.0\LabWork9.runtimeconfig.json
+C:\Temp\ispp-21\MDK0202\LabWork9\LabWork9\LabWork9\bin\Debug\net9.0\LabWork9.dll
+C:\Temp\ispp-21\MDK0202\LabWork9\LabWork9\LabWork9\bin\Debug\net9.0\LabWork9.pdb
+C:\Temp\ispp-21\MDK0202\LabWork9\LabWork9\LabWork9\obj\Debug\net9.0\LabWork9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp-21\MDK0202\LabWork9\LabWork9\LabWork9\obj\Debug\net9.0\LabWork9.AssemblyInfoInputs.cache
+C:\Temp\ispp-21\MDK0202\LabWork9\LabWork9\LabWork9\obj\Debug\net9.0\LabWork9.AssemblyInfo.cs
+C:\Temp\ispp-21\MDK0202\LabWork9\LabWork9\LabWork9\obj\Debug\net9.0\LabWork9.csproj.CoreCompileInputs.cache
+C:\Temp\ispp-21\MDK0202\LabWork9\LabWork9\LabWork9\obj\Debug\net9.0\LabWork9.dll
+C:\Temp\ispp-21\MDK0202\LabWork9\LabWork9\LabWork9\obj\Debug\net9.0\refint\LabWork9.dll
+C:\Temp\ispp-21\MDK0202\LabWork9\LabWork9\LabWork9\obj\Debug\net9.0\LabWork9.pdb
+C:\Temp\ispp-21\MDK0202\LabWork9\LabWork9\LabWork9\obj\Debug\net9.0\LabWork9.genruntimeconfig.cache
+C:\Temp\ispp-21\MDK0202\LabWork9\LabWork9\LabWork9\obj\Debug\net9.0\ref\LabWork9.dll
