@@ -1,0 +1,127 @@
+<mxfile host="Electron" modified="2025-11-12T08:16:16.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Q0csiJDMJgmsz4aa9F-Q" version="23.1.5" type="device">
+  <diagram name="Страница — 1" id="GD5T7hSSDyhbgUfsHr-a">
+    <mxGraphModel dx="1195" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-1" value="Управление учебным контентом ПДД" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-2" value="Epic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-8" value="Администратор управляет базой вопросов для тестирования" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-9" value="Use case" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-10" value="F1.1.1. Поиск вопроса в базе данных" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-11" value="Feature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-15" value="F1.1.2. Сортировка вопроса по параметрам" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="210" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-16" value="F1.1.3. Просмотр детальной информации о вопросе" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="488" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-17" value="F1.1.4. Вопрос не содержит изображения" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="618" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-18" value="Администратор открывает панель управления вопросами&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-19" value="Администратор вводит текст для поиска и вариантам ответов" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="488" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-20" value="Система отображает список всех вопросов с пагинацией" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="280" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-22" value="Main scenario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="288" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-24" value="Администратор выберает нужный вопрос из результатов поиска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="618" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-25" value="Alt. scenario 1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-26" value="Alt. scenario 2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-27" value="Alt. scenario 3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-28" value="Alt. scenario 4" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="574.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-30" value="Alt. scenario 5" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-34" value="Система отображает список всех вопросов с пагинацией" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-35" value="Администратор вводит текст для поиска и вариантам ответов" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-36" value="Система отображает отфильтрованный список вопросов" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-37" value="Администратор выберает нужный вопрос из результата поиска" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-38" value="Администратор открывает список вопросов" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="360" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-39" value="Система отображает вопросы в порядке добавления" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="430" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-40" value="Администратор выберает поле для сортировки" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="500" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-41" value="Администратор выберает направление сортировки" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="570" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-42" value="Система перестаивает список согласно выбранным параметрам" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="640" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-43" value="Администратор выберает вопрос из списка" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-44" value="Система отображает карточку вопроса" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-45" value="В карточке отображается вся информация" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-46" value="Администратор просматривает информацию" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-47" value="Администратор возвращается к списку вопросов" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-48" value="Администратор нажиает кнопку &quot;Создать вопрос&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="618" y="360" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-49" value="Система открывает форму создания вопроса" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="618" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-50" value="Администратор загружает изображение (опционально)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="618" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-51" value="Администратор нажимает &quot;сохранить&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="618" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ptnCs3Ihk0Mc43wdw4-52" value="Система отображает сообщение &quot;Вопрос успешно создан&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="618" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AWN5NsbLmn3bcCt9tqmR-1" value="Система выполняет поиск по тексту вопроса и вариантам ответов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
